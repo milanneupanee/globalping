@@ -154,4 +154,4 @@ This project is licensed under the MIT License.
 
 ##  Credits
 
-Made with ï¸ by [jsDelivr](https://www.jsdelivr.com) and the open source community.
+Made by [jsDelivr](https://www.jsdelivr.com) and the open source community.
